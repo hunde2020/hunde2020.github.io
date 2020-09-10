@@ -12,7 +12,7 @@ body {
 }
 
 #wrapper {
-    background-color: #b3c7e6;
+    background-color: #ffffff;
     color: black;
     width: 90%;
     height: 5%;
@@ -70,7 +70,6 @@ main {
     margin: auto;
     user-select: none;
     box-shadow: 0px 0px 3px 1px #00000078;
-    padding: 10px;
     box-sizing: border-box;
 }
 
